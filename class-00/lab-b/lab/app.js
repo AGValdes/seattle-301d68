@@ -145,7 +145,7 @@ console.log(message('Allie'));
 
 let Student = function (name, age, hometown) {
   this.name = name,
-    this.age = age
+  this.age = age
   this.hometown = hometown;
 };
 
